@@ -7,3 +7,4 @@ ICCV 2019 tiger pose detection
 #### 主要功能
 对象识别与姿态识别
 
+![Image text](https://github.com/Arthur619/CVFinal/blob/main/icon/tiger.png)
